@@ -1,7 +1,3 @@
-layout: page
-title: "Markdown"
-permalink: /meta/markdown/
-
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
