@@ -1,5 +1,3 @@
-layout: page
-title: "FFBE"
-permalink: /ffbe/
-
 ## FFBE 
+
+FFBE content coming soon
