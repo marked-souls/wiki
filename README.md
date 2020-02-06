@@ -1,4 +1,4 @@
-## Welcome to the Marked Souls Wiki powered by GitHub Pages
+## Welcome to the Marked Souls Wiki
 
 You can use the [editor on GitHub](https://github.com/marked-souls/wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
