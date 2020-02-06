@@ -1,0 +1,2 @@
+# wiki
+Marked Souls Wiki
