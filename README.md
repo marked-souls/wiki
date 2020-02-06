@@ -2,4 +2,4 @@
 
 Games
 
-* [FFBE](/.././ffbe/)
+* [FFBE](/wiki/ffbe/)
